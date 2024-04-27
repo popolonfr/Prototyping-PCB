@@ -1,6 +1,6 @@
 ﻿## Description
 
-This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC) computer. It is compatible with [**KONAMI**](https://en.wikipedia.org/wiki/Konami) or [**ASCII**](https://fr.wikipedia.org/wiki/ASCII_(entreprise)) cartridge cases. by drilling the holes according to the type you need. The letter "k" on the even layer near a circle with a cross indicates the KONAMI type.
+This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC) computer. It is compatible with [**KONAMI**](https://en.wikipedia.org/wiki/Konami) or [**ASCII**](https://fr.wikipedia.org/wiki/ASCII_(entreprise)) cartridge cases. by drilling the holes according to the type you need. The letter **k** on the even layer near a circle with a cross indicates the **KONAMI** type.
 
 ## Parameters for manufacturing
 |         -          |            -            |

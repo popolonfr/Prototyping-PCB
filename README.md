@@ -18,4 +18,6 @@ This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC
 |   Golden fingers   |   beveled edges         |
 
 
+[**Download the Gerber**](https://en.wikipedia.org/wiki/Konami)
+
 &copy; 2013 popolon-fr

@@ -2,7 +2,7 @@
 
 This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC) computer. It is compatible with [**KONAMI**](https://en.wikipedia.org/wiki/Konami) or [**ASCII**](https://fr.wikipedia.org/wiki/ASCII_(entreprise)) cartridge cases. by drilling the holes according to the type you need. The letter "k" on the even layer near a circle with a cross indicates the KONAMI type.
 
-### Parameters for manufacturing
+## Parameters for manufacturing
 |         -          |            -            |
 |:------------------:|:-----------------------:|
 |   Copper Layers    |   2                     |
@@ -18,6 +18,8 @@ This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC
 |   Golden fingers   |   beveled edges         |
 
 
-[**Download the Gerber**](https://en.wikipedia.org/wiki/Konami)
+## Download the files
+
+Download the [**Gerber**](https://github.com/popolonfr/Prototyping-PCB/archive/refs/heads/main.zip)
 
 &copy; 2013 popolon-fr

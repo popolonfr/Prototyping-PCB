@@ -22,8 +22,6 @@ This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC
 |   Panel-Type       |   Single piece          |
 |   Golden fingers   |   beveled edges         |
 
- <span style="color:red;">your text here > </span>
-
 ## Download the files
 
 Download the [**Gerber**](https://github.com/popolonfr/Prototyping-PCB/archive/refs/heads/main.zip)

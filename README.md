@@ -5,6 +5,7 @@ This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC
 
 <img src="Pictures/PCB1.JPG" width="500px"/>
 
+
 ## Parameters for manufacturing
 |         -          |            -            |
 |:------------------:|:-----------------------:|
@@ -19,6 +20,10 @@ This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC
 |   Test             |   Flying Probe E-test   |
 |   Panel-Type       |   Single piece          |
 |   Golden fingers   |   beveled edges         |
+
+::: warning Titre
+Texte
+:::
 
 
 ## Download the files

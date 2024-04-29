@@ -7,6 +7,7 @@ This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC
 
 
 ## Parameters for manufacturing
+
 |         -          |            -            |
 |:------------------:|:-----------------------:|
 |   Copper Layers    |   2                     |
@@ -21,6 +22,7 @@ This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC
 |   Panel-Type       |   Single piece          |
 |   Golden fingers   |   beveled edges         |
 
+ <span style="color:red;">your text here > </span>
 
 ## Download the files
 

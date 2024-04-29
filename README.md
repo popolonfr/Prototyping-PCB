@@ -21,10 +21,6 @@ This PCB is made for use on an [**MSX**](https://en.wikipedia.org/wiki/MSX_BASIC
 |   Panel-Type       |   Single piece          |
 |   Golden fingers   |   beveled edges         |
 
-::: warning Titre
-Texte
-:::
-
 
 ## Download the files
 
